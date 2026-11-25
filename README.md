@@ -83,6 +83,11 @@ Run Streamlit:
 streamlit run app.py
 
 ```
+## Project Output
+
+### Original vs Enhanced Underwater Image
+
+![Underwater Dehazing Result](underwater_result.png)
 
 
 
